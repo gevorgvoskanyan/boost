@@ -44,11 +44,11 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "config"]
 	path = libs/config
-	url = git@github.com:gevorgvoskanyan/config.git
+	url = https://github.com/gevorgvoskanyan/config.git
 	fetchRecurseSubmodules = on-demand
 [submodule "log"]
 	path = libs/log
-	url = git@github.com:gevorgvoskanyan/log.git
+	url = https://github.com/gevorgvoskanyan/log.git
 	fetchRecurseSubmodules = on-demand
 [submodule "interprocess"]
 	path = libs/interprocess
@@ -64,7 +64,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "spirit"]
 	path = libs/spirit
-	url = git@github.com:gevorgvoskanyan/spirit.git
+	url = https://github.com/gevorgvoskanyan/spirit.git
 	fetchRecurseSubmodules = on-demand
 [submodule "io"]
 	path = libs/io
@@ -96,7 +96,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "thread"]
 	path = libs/thread
-	url = git@github.com:gevorgvoskanyan/thread.git
+	url = https://github.com/gevorgvoskanyan/thread.git
 	fetchRecurseSubmodules = on-demand
 [submodule "tokenizer"]
 	path = libs/tokenizer
@@ -256,7 +256,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "build"]
 	path = tools/build
-	url = git@github.com:gevorgvoskanyan/build.git
+	url = https://github.com/gevorgvoskanyan/build.git
 	fetchRecurseSubmodules = on-demand
 [submodule "quickbook"]
 	path = tools/quickbook
@@ -272,7 +272,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "program_options"]
 	path = libs/program_options
-	url = git@github.com:gevorgvoskanyan/program_options.git
+	url = https://github.com/gevorgvoskanyan/program_options.git
 	fetchRecurseSubmodules = on-demand
 [submodule "detail"]
 	path = libs/detail
@@ -452,7 +452,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "assert"]
 	path = libs/assert
-	url = git@github.com:gevorgvoskanyan/assert.git
+	url = https://github.com/gevorgvoskanyan/assert.git
 	fetchRecurseSubmodules = on-demand
 [submodule "align"]
 	path = libs/align
@@ -464,7 +464,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "core"]
 	path = libs/core
-	url = git@github.com:gevorgvoskanyan/core.git
+	url = https://github.com/gevorgvoskanyan/core.git
 	fetchRecurseSubmodules = on-demand
 [submodule "throw_exception"]
 	path = libs/throw_exception
